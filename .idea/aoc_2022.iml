@@ -4,6 +4,7 @@
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/level_1/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/level_10/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/level_11/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/level_2/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/level_3/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/level_4/src" isTestSource="false" />
@@ -24,6 +25,7 @@
       <excludeFolder url="file://$MODULE_DIR$/level_8/target" />
       <excludeFolder url="file://$MODULE_DIR$/level_9/target" />
       <excludeFolder url="file://$MODULE_DIR$/level_10/target" />
+      <excludeFolder url="file://$MODULE_DIR$/level_11/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
